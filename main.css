@@ -1,0 +1,13 @@
+p {
+  color: red;
+}
+
+ul li {
+  display: inline-block;
+  padding: 5px 10px;
+  background-color: pink;
+}
+
+span {
+  
+}
